@@ -9,7 +9,8 @@ class SaleResource extends JsonResource
 {
     /**
      * Transform the resource into an array.
-     *
+     *kdjfkdjf
+    *  kjfkdjf
      * @return array<string, mixed>
      */
     public function toArray(Request $request): array
